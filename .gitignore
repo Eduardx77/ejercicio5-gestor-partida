@@ -1,0 +1,16 @@
+target/
+build/
+out/
+*.class
+*.zip
+
+# IDE metadata
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+nbproject/private/
+nb-configuration.xml
+nbactions.xml
+.DS_Store
